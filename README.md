@@ -1,16 +1,6 @@
 # Diplomado_Verano
 This is a list of songs. 
 
-1. Maria Alejandra
-
-No soy atrevido
-Me cuesta conocerte,
-Pero de arriba abajo
-Tengo, para entretenerte
-Siempre a la joda
-Tu moda no es mi moda,
-Pero anda como quieras
-Que me gustan todas
 
 2. Ximena Pinillos 
 
@@ -35,13 +25,6 @@ Someday
 Yeah, it hurts to say, but I want you to stay
 Sometimes
 Sometimes
-
-5. Guillermo Coronado
-
-Lo nuestro no te conviene, eh
-Pero él ya no te entretiene, eh
-Sé que te incito a pecar, lo tratas de controlar
-Pero no se detiene, eh
 
 
 6. Valeria
