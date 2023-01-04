@@ -37,3 +37,15 @@ One more time, we're gonna celebrate
 
 지금 하늘 구름 색은 tropical, yeah
 저 태양 빨간빛 네 두 볼 같아
+
+
+6. Valeria
+
+One more time
+One more time
+One more time, we're gonna celebrate
+
+7. Kerly Tito 
+
+지금 하늘 구름 색은 tropical, yeah
+저 태양 빨간빛 네 두 볼 같아
