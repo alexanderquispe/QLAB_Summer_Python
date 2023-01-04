@@ -75,6 +75,17 @@ The evaluation consists of a final work at the end of the course.
 |:---|:---|:---|:---|
 | • CUEVA MENDOZA, JHERSON ALDAIR <br> • NARVAEZ LEYVA, GABRIELA MARIE <br> • YAMAMOTO CAMPOS, GONZALO JESUS <br> • CORONADO SIALER, GUILLERMO EDUARDO | • POGGI SOLANO, CESAR ALEJANDRO <br> • NOBLEJAS GARCIA, JIMMY ALEXANDER <br> • PINILLOS ZEGARRA, XIMENA ALEJANDRA <br> • TORRES TAPIA, SEBASTIAN ELIAS | • MENDOZA MORALES, CARMEN ROSA <br> • PEREZ GUERRA, JOAQUIN ESTEBAN <br> • MINAYA TEJEDA, LIZBETH JAZMIN <br> • ALBARRACIN GARCES, VALERIA SORAYA |• ENCALADA CALDERON, MICHAEL OMAR <br> • TITO SANTA CRUZ, KERLY MABEL <br> • COLAN LAMAS, MARIA ALEJANDRA |
 
+## X. Website
+
+1. Video tutorials
+- https://www.youtube.com/watch?v=zyGfECfJ9BY
+- https://www.youtube.com/watch?v=K5xImVmm2Ds
+
+
+2. Templates
+- https://bootstrapmade.com/bootstrap-portfolio-templates/
+- https://cssauthor.com/free-bootstrap-portfolio-templates/
+
 
 
 
