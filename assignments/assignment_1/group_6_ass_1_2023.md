@@ -8,3 +8,9 @@ c. Interest: I would like to study how the use of social media (Facebook, Instag
 a. Database:
 b. Information: -
 c. Interest: -
+
+
+3. Lizbeth 
+a. Database:
+b: Information:
+c: Interest: 
