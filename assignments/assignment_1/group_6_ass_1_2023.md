@@ -1,3 +1,4 @@
+Group 6: Carmen Mendoza, Joaquín Pérez, Lizbeth Minaya, Valeria Albarracin
 
 1. Joaquín Pérez
 a. Database: World Value Survey Wave 7 (2017 2022)
