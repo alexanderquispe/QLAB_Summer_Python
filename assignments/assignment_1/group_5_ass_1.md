@@ -51,28 +51,44 @@ c. Interest: I would like to study about the public services delivery and its re
 Alexander Noblejas:
 
 DATABASE 1
-Database: National Open Data Platform - Ministry of Transport and Communications
-Information: Database about Mobile Service Coverage for the years 2019 - 2022
-Interest: I would like to study the communication divide between the regions of Peru in recent years. I am interested in analyzing this phenomenon in relation to decentralization.
-Link: https://www.datosabiertos.gob.pe/dataset/cobertura-de-servicio-móvil
+
+a. Database: National Open Data Platform - Ministry of Transport and Communications
+
+b. Information: Database about Mobile Service Coverage for the years 2019 - 2022
+
+c. Interest: I would like to study the communication divide between the regions of Peru in recent years. I am interested in analyzing this phenomenon in relation to decentralization.
+
+d. Link: https://www.datosabiertos.gob.pe/dataset/cobertura-de-servicio-móvil
 
 DATABASE 2
-Database: National Open Data Platform - Supervisory Agency for Private Investment in Telecommunications (OSIPTEL)
-Information: Database about internet connections that are in service during 2021, segmented by company, technology, department and download speed range.
-Interest: I would like to study the digital divide between the regions of Peru in recent years. I am interested in analyzing this phenomenon in relation to decentralization
-Link:https://www.datosabiertos.gob.pe/dataset/conexiones-de-internet-fijo
+
+a. Database: National Open Data Platform - Supervisory Agency for Private Investment in Telecommunications (OSIPTEL)
+
+b. Information: Database about internet connections that are in service during 2021, segmented by company, technology, department and download speed range.
+
+c. Interest: I would like to study the digital divide between the regions of Peru in recent years. I am interested in analyzing this phenomenon in relation to decentralization
+
+d. Link:https://www.datosabiertos.gob.pe/dataset/conexiones-de-internet-fijo
 
 DATABASE 3
-Database: Strauss Center (The University of Texas at Austin)
-Information: Database of social conflicts in Latin America for the years 1990 - 2017
-Interest:I would like to study the social conflicts in Latin America in recent years comparatively.
-Link: https://www.strausscenter.org/ccaps-research-areas/social-conflict/database/
+
+a. Database: Strauss Center (The University of Texas at Austin)
+
+b. Information: Database of social conflicts in Latin America for the years 1990 - 2017
+
+c. Interest:I would like to study the social conflicts in Latin America in recent years comparatively.
+
+d. Link: https://www.strausscenter.org/ccaps-research-areas/social-conflict/database/
 
 DATABASE  4
-Database: Harvard Dataverse
-Information: Database about cocoa crop coverage in the Peruvian Amazon for 2020
-Interest: I would like to study the cocoa production in the Amazon with deforestation and areas with a higher concentration of these crops.
-Link:https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/XMQNC2
+
+a. Database: Harvard Dataverse
+
+b. Information: Database about cocoa crop coverage in the Peruvian Amazon for 2020
+
+c. Interest: I would like to study the cocoa production in the Amazon with deforestation and areas with a higher concentration of these crops.
+
+d. Link:https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/XMQNC2
 
 
 
