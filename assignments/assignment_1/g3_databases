@@ -2,11 +2,9 @@ Group 3: database options
 Members: Alexander, Christian, Esteban and Brisa
 
 1.	Brisa
-a. Database: Multidimensional Deprivation Index (MDI), United States Census Bureau
-b. Information: An Index at a county level (county codes) about human deprivation in 6 dimensions: standard of living, education, health, economic security,
-   housing quality, and neighborhood quality, from years 2010 to 2019. This an alternative, more comprehensive way of estimating poverty.
-c. Interest: I would like to observe the evolution of this indicator across time, and even be able to regroup the cases according to other characteristics,
-   like state or geographic zone.
+a.	Database: World Development Indicators, World Bank Group (2022)
+b.	Information: This database presents information from years 1960 to 2021 about world development indicators, in topics such as economic policy, education, environment, financial sector, gender, health, infrastructure, poverty, private sector & trade aspects, public sector quality and social protection and labor. The information its given at a country level, but these units can also be filtered by region, income level and lending group.
+c.	Interest: I would like to observe the evolution of health and education indicators over time; particularly, over the second decade of the XXI century, and among middle income level countries.
 
 2. Cristhian
 a. Database: World Economic Outlook Database (WEO), International Monetary Fund
