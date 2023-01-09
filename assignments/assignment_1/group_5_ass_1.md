@@ -29,3 +29,21 @@ a. Database: The V-Dem Dataset.
 b. Information: Annual data about the quality of different governments and their respective political regimes. The V-Dem Project include information on hundreds of indicator variables describing all aspects of government, especially on the quality of democracy, inclusivity, and other political and economic indicators. 
 
 c. Interest:  I would like to know how much the social and economic indicators and quality vary between countries depending on their political regime. In particular, Freedom of expression, the rule of law and control of corruption.
+
+### Cesar Poggi
+
+#### Database 8
+
+a. Database 1: ENAPRES Encuesta Nacional de Programas Presupuestales.
+
+b. Information: Data about public services (both public and private driven) and their scope, as well as other variables related to urban topics.
+
+c. Interest: I would like to study about the public services delivery on the district/department/regional level.
+
+#### Database 9
+
+a. Database 2 Encuesta de Percepciones de Lima Cómo Vamos.
+
+b. Information: Data about citizen perception on various topics related to the urban and public space such as participation in innitiatives to change inmediate spaces, satisfaction with public services delivery, general problems affecting life quality, etc.
+
+c. Interest: I would like to study about the public services delivery and its relation with other variables.
