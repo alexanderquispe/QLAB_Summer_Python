@@ -6,10 +6,6 @@ Group 5:
 
 Databases proposal and description:
 
-Ximena Pinillos:
-a. Database: Environmental Database (WTO)
-b. Information:  collection of environment-related notifications submitted by the WTO members, measures and policies mentioned in the Trade Policy Reviews of WTO members.
-c. Interest: I would like to study the impact of the growth of international trade on the design of policies for the mitigation of the environmental pollution, especially in the extractive industries in Peru.
 
 ### 1. Sebastian Torres: 
 #### Database 1
@@ -29,6 +25,24 @@ a. Database: The V-Dem Dataset.
 b. Information: Annual data about the quality of different governments and their respective political regimes. The V-Dem Project include information on hundreds of indicator variables describing all aspects of government, especially on the quality of democracy, inclusivity, and other political and economic indicators. 
 
 c. Interest:  I would like to know how much the social and economic indicators and quality vary between countries depending on their political regime. In particular, Freedom of expression, the rule of law and control of corruption.
+
+
+### 2. Ximena Pinillos
+
+#### Database 3
+
+a. Database: Environmental Database (WTO)
+
+b. Information:  collection of environment-related notifications submitted by the WTO members, measures and policies mentioned in the Trade Policy Reviews of WTO members.
+
+c. Interest: I would like to study the impact of the growth of international trade on the design of policies for the mitigation of the environmental pollution, especially in the extractive industries in Peru.
+
+#### Database 4
+
+a. Database: UNHCR Database
+
+b. Information: 
+
 
 ### 4. Cesar Poggi
 
