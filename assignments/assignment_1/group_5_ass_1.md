@@ -46,9 +46,9 @@ b. Information: The UNHCR database provides a data collection of the refugee eme
 c. Interest: I would like to study the relation between the venezuelan refugees and the peruvian labour market. 
 
 
-### 4. Cesar Poggi
+### 3. Cesar Poggi
 
-#### Database 8
+#### Database 5
 
 a. Database 1: ENAPRES Encuesta Nacional de Programas Presupuestales.
 
@@ -56,7 +56,7 @@ b. Information: Data about public services (both public and private driven) and 
 
 c. Interest: I would like to study about the public services delivery on the district/department/regional level.
 
-#### Database 9
+#### Database 6
 
 a. Database 2 Encuesta de Percepciones de Lima Cómo Vamos.
 
@@ -64,9 +64,9 @@ b. Information: Data about citizen perception on various topics related to the u
 
 c. Interest: I would like to study about the public services delivery and its relation with other variables.
 
-Alexander Noblejas:
+### 4. Alexander Noblejas:
 
-DATABASE 1
+#### Database 7
 
 a. Database: National Open Data Platform - Ministry of Transport and Communications
 
@@ -76,7 +76,7 @@ c. Interest: I would like to study the communication divide between the regions 
 
 d. Link: https://www.datosabiertos.gob.pe/dataset/cobertura-de-servicio-móvil
 
-DATABASE 2
+#### Database 8
 
 a. Database: National Open Data Platform - Supervisory Agency for Private Investment in Telecommunications (OSIPTEL)
 
@@ -86,7 +86,7 @@ c. Interest: I would like to study the digital divide between the regions of Per
 
 d. Link:https://www.datosabiertos.gob.pe/dataset/conexiones-de-internet-fijo
 
-DATABASE 3
+#### Database 9
 
 a. Database: Strauss Center (The University of Texas at Austin)
 
@@ -96,7 +96,7 @@ c. Interest:I would like to study the social conflicts in Latin America in recen
 
 d. Link: https://www.strausscenter.org/ccaps-research-areas/social-conflict/database/
 
-DATABASE  4
+#### Database  10
 
 a. Database: Harvard Dataverse
 
