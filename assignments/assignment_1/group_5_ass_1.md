@@ -64,7 +64,7 @@ c. Interest: I would like to study about the public services delivery and its re
 
 ### 4. Alexander Noblejas:
 
-#### DATABASE 7
+#### Database 7
 
 a. Database: National Open Data Platform - Ministry of Transport and Communications
 
@@ -74,7 +74,7 @@ c. Interest: I would like to study the communication divide between the regions 
 
 d. Link: https://www.datosabiertos.gob.pe/dataset/cobertura-de-servicio-móvil
 
-#### DATABASE 8
+#### Database 8
 
 a. Database: National Open Data Platform - Supervisory Agency for Private Investment in Telecommunications (OSIPTEL)
 
@@ -84,7 +84,7 @@ c. Interest: I would like to study the digital divide between the regions of Per
 
 d. Link:https://www.datosabiertos.gob.pe/dataset/conexiones-de-internet-fijo
 
-#### DATABASE 9
+#### Database 9
 
 a. Database: Strauss Center (The University of Texas at Austin)
 
@@ -94,7 +94,7 @@ c. Interest:I would like to study the social conflicts in Latin America in recen
 
 d. Link: https://www.strausscenter.org/ccaps-research-areas/social-conflict/database/
 
-##### DATABASE  10
+##### Database  10
 
 a. Database: Harvard Dataverse
 
