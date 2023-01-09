@@ -6,16 +6,16 @@ b. Information: Survey about the political, economic, religious and cultural val
 c. Interest: I would like to study how the use of social media (Facebook, Instagram, Twitter, etc.) and consumption of 'alternative' media sources may influence in the perception of electoral integrity.
 
 2. Carmen
-<<<<<<< HEAD
+
 a. Database:
 b. Information: -
 c. Interest: -
 
 
 3. Lizbeth 
-a. Database:
-b: Information:
-c: Interest: 
+a. Database:Reporte I Trimestre 2022 (about the population of legal age by condition of organ donor)
+b: Information:Information on the Peruvian population registered in RENIEC with DNI of legal age, by organ donor status, by sex and age, according to place of residence.
+c: Interest: I consider it very important to raise awareness about the importance of organ donation. In this sense, understanding why certain groups donate more than others becomes very relevant.
 =======
 a. Database: ENAHO 2020
 b. Information: Survey that monitors the indicators on living conditions. It is carried out nationwide (in urban and rural areas), in the 24 departments of the country.
