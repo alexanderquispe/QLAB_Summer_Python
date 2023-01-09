@@ -12,3 +12,32 @@ c. Interest: I would like to study information on the educational performance of
 a. Database: ECLAC / Economic Commission for Latin America and the Caribbean / Based on data from Household Surveys Database (BADEHOG). 2001-2022.
 b. Information: It shows the percentage of the population whose average per capita income is below the poverty and extreme poverty line according to their sex, age and country of living. It has data since 2001 and it keeps being updated.
 c. Interest: I am interested on this database because I am willing to understand the intersections that social attributes can have with economical conditions, as well as their shades accross the Latin American nations. As well, I would like to compare these percentages with their corresponding total amount of people (for example, which is the amount of elder women living in poverty compared to the total number of elder women)
+
+4. Maria Pia van Oordt
+a. Registro Nacional de Municipalidades - RENAMU, Código del módulo:1591, código de encuesta:730, Periodo: 142, Año:2020-Servicios Públicos Locales. 
+http://iinei.inei.gob.pe/microdatos/
+http://iinei.inei.gob.pe/iinei/srienaho/descarga/SPSS/730-Modulo1591.zip
+
+b. Datos Abiertos Minsa y Gestión del Conocimiento en Covid-19
+	*Casos Positivos: En esta base encontramos la cantidad de contagios de 1701 distritos del Perú. Esta información fue recopilada por el MINSA y se encuentra en su página web de datos abiertos (https://www.datosabiertos.gob.pe/dataset/casos-positivos-por-covid-19-ministerio-de-salud-minsa/resource/690e57a6-a465-47d8-86fd)
+
+	*Fallecidos por Covid-19: En esta base encontramos la cantidad de fallecidos de 1650 distritos del Perú. Esta información fue recopilada por el MINSA y se encuentra en su página web de datos abiertos. : (https://www.datosabiertos.gob.pe/dataset/fallecidos-por-covid-19-ministerio-de-salud-minsa/resource/4b7636f3-5f0c-4404-8526)
+
+	*Hospitalizados por Covid-19: Esta base de dato cuenta con diversa información sobre los fallecidos, vacunados, contagiados por el covid.19; sin embargo, para esta investigación solo se extraerá de esta base de datos la información sobre los hospitalizados por covid-19 en cada distrito. 
+https://www.datosabiertos.gob.pe/dataset/fallecidos-hospitalizados-y-vacunados-por-covid-19
+
+c.SIAF: Sistema Integrado de Administración Financiera. Esta Base de datos contiene información sobre la información financiera de todas las entidades públicas a nivel local, regional y nacional. 
+https://qlab-pucp.shinyapps.io/QLAB-BigData/
+
+d.Plataforma Nacional de Datos Abiertos:
+	*Establecimientos de Salud a nivel nacional: En esta base de datos podemos encontrar datos sobre los 23,656 establecimientos de salud del Perú del Registro Nacional de Instituciones Prestadoras de Servicios de Salud RENIPRESS de la Superintendencia Nacional de Salud – SUSALUD. https://www.datosabiertos.gob.pe/dataset/establecimientos-de-salud
+
+	*Vacunación contra Covid-19: En esta base de datos encontramos las observaciones a nivel departamental, provincial y distrital. Para esta propuesta de investigación se usará la data de nivel distrital con relación a los vacunados.
+https://www.datosabiertos.gob.pe/dataset/vacunaci%C3%B3n-contra-covid-19-ministerio-de-salud-minsa
+
+	*Disponibilidad de camas
+
+https://www.datosabiertos.gob.pe/dataset/disponibilidad-de-camas-para-atenciones-covid19
+
+e.Ejecución Presupuestal - COVID - 19 - [Ministerio de Economía y Finanzas - MEF]
+https://www.datosabiertos.gob.pe/dataset/ejecuci%C3%B3n-presupuestal-covid-19-ministerio-de-econom%C3%ADa-y-finanzas-mef
