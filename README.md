@@ -6,7 +6,7 @@ This public repository contains the training materials, tutorials, code, and ass
 
 |  | | 
 |:-------------------|---|
-| Course name | Python Fundamentals for Social Sciences and Public Management | 
+| Course name | Python Fundamentals for Macroeconomics | 
 | Number of Hours of Theory | 16 hours |
 | Professor | Alexander Quispe Rojas |
 | PUCP email | alexander.quispe@pucp.edu.pe |
@@ -40,7 +40,7 @@ The evaluation consists of a final work at the end of the course.
 
 | Nº | Type of evaluation | Weighting on Final Grade |
 |:-------------------|---| ---|
-| 8 | Weekly evaluations | 80% |
+| 8 | 4 evaluations | 80% |
 | 1 | Final project | 20%|
 
 ## VII. Compulsory Bibliography
@@ -52,16 +52,13 @@ The evaluation consists of a final work at the end of the course.
 
 ## VIII. Schedule
 
-| Week | Blocks | Topics/Contents |
-|:-------------------|---|---|
-| 1 | Introduction to Python | • Setting up a programming environment <br> • Basic syntax and data types (strings, integers, floats, booleans) <br> • Variables and assignment <br> • Basic operators (arithmetic, comparison, logical) <br> • Basic input and output |
-| 2 | Control Structures | • if-else statements <br> • for loops <br> • while loops <br> • break and continue |
-| 3 | Functions |  • Defining and calling functions <br> • Parameters and arguments <br> • Return values <br> • Scope |
-| 4 | Data Structures | • Lists <br> • Tuples <br> • Dictionaries <br> • Sets |
-| 5 | Working with Files | •	Reading and writing files <br> •	Handling exceptions <br> •	JSON data |
-| 6 | Modules and Packages | •	Importing and exporting modules <br> •	Installing and using third-party packages |
-| 7 | Object-Oriented Programming |•	Classes and objects <br> •	Constructors and destructors <br> •	Inheritance and polymorphism |
-| 8 | Advanced Topics | •	Generators and iterators <br> •	Decorators <br> •	Lambda functions <br> •	Regular expressions |
+|Week|Date|Day|Schedule|Topic|Subtopic
+|---|---|---|---|---|---
+|1|11/18/2023|Saturday|14:00-17:00| Github - Basic Objects| <ul>  <li>Installation</li>   <li>Branches</li>   <li>Repository </li> <li>Lists</li>   <li>Dictionaries</li>   <li>NumPy </li> </ul>   
+|2|12/02/2023|Saturday|14:00-17:00| Pandas | <ul>  <li> Series </li>   <li>Indexing</li>   <li>Importing Data </li> <li> Data wrangling </li> </ul>      
+|3|12/09/2023|Saturday|14:00-17:00 | Control Structures, Functions and Classes| <ul>  <li> If condition </li>   <li> For loop</li>   <li> While Loop</li> <li> Function Definitions </li>   <li> *args and **kwwargs </li>   <li> \_init_</li> <li> Attributes and Methods</li> </ul>    
+|4|12/16/2023|Saturday|14:00-17:00| API| <ul>  <li>Google Directions</li>   <li>Geolocation</li> <li>Finance APIs</li> </ul>   
+|5|12/23/2023|Saturday|14:00-17:00| NLP| <ul>  <li> GPT-4 </li>   <li> Transformers </li>   </ul> 
 
 ## IX. Groups
 
