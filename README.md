@@ -62,15 +62,13 @@ The evaluation consists of a final work at the end of the course.
 
 ## IX. Groups
 
-| Group 1 | Group 2 | Group 3 |
-|:---|:---|:---|
-| • VILCA GALLEGOS, LUZ NICOLE <br> • ARANDA FLORES, PAOLA CRISTINA <br> • MARTUCCELLI GARCIA, DANIELA FERNANDA <br> • VAN OORDT LOPEZ, MARIA PIA | • CRESPIN JUAREZ, CARLOS DANIEL <br> • QUISPE PAUCAR, ANGIE CRISTINA <br> • TELLO ASENCIO, JENNIFER ANDREA <br> • ARO CARDENAS, ARTURO FABIO | <br> • CRUZ PACHECO, BRISA ALEJANDRA <br> • DU-BOIS ARANA, ALEXANDER <br> • ALFARO GUERRERO, CRISTHIAN FRED <br> • CABRERA BONILLA, ESTEBAN SIMON |
+| group1               | group2                          | group3                     | group4                            | group5                      | group6                             | group7                           | group8                        | group9                       | group10                         |
+|----------------------|---------------------------------|----------------------------|-----------------------------------|-----------------------------|------------------------------------|----------------------------------|------------------------------|------------------------------|---------------------------------|
+| RUBEN ROJAS AYALA    | JOSE MIGUEL POEMAPE COSANATAN   | CHE VICTOR TORRES LOPEZ    | ABRAHAM ALBERTH CALDERON CANICOBA | GIORDANO ALAIN MEDINA MONTES | ISMAEL BARUJ GONZALES REVILLA      | ILENIA ALEJANDRA TTITO COLLANTES | NICOLAS ALBERTO VELARDE FREUNDT |                              |                                 |
+| DANIEL MAX RAMIREZ CHAVEZ | JHUNNIOR STEVENS SAENZ ALTAMIRANO | FERNANDO CARLOS TEMPLO VIENA | DIEGO FERNANDO GUTIERREZ PARRE√ëO | ANGIE ZOILA ABAD ALVARADO    | CARLOS EDUARDO BORJA SOTOMAYOR     | JAMES CARLOS MEDINA VANINI      | FERNANDO MIGUEL MENDOZA CANAL |                              |                                 |
+| JOSUE ALBERTO RICAPA SANCHEZ | GONZALO JESUS ORME√ëO MARREROS  | CARLOS RODRIGO MENDOZA GOMEZ | SILVANA SHANTAL BLANCO ATAU       | JUAN DIEGO LINARES JAIME     | ALEXANDER SEBASTIAN ESPINOZA COLCA | RAFAEL ANTONIO VARGAS PORTOCARRERO | ALVARO FRANCO GAMONAL MIRANDA | JOSUE ALBERTO RICAPA SANCHEZ | ALESSANDRO DEL PIERO BURGOS CAMPOMANEZ |
+| ALESSANDRO DEL PIERO BURGOS CAMPOMANEZ | ARMANDO JAVIER PINEDA ALIAGA    | DANIELA LUCIA OCHOA SALAS    | ANTHONY PEDRO MAMANI NAVARRO      | MARILIA ARIZAPANA HINOSTROZA | JOSE MARIA SEBASTIAN TAMAYO MARTINEZ | ANA LUCIA DEL RIO SANTOS         |                              |                              |                                 |
 
-
-
-| Group 4 | Group 5 | Group 6 | Group 7 |
-|:---|:---|:---|:---|
-| • CUEVA MENDOZA, JHERSON ALDAIR <br> • NARVAEZ LEYVA, GABRIELA MARIE <br> • YAMAMOTO CAMPOS, GONZALO JESUS <br> • CORONADO SIALER, GUILLERMO EDUARDO | • POGGI SOLANO, CESAR ALEJANDRO <br> • NOBLEJAS GARCIA, JIMMY ALEXANDER <br> • PINILLOS ZEGARRA, XIMENA ALEJANDRA <br> • TORRES TAPIA, SEBASTIAN ELIAS | • MENDOZA MORALES, CARMEN ROSA <br> • PEREZ GUERRA, JOAQUIN ESTEBAN <br> • MINAYA TEJEDA, LIZBETH JAZMIN <br> • ALBARRACIN GARCES, VALERIA SORAYA |• ENCALADA CALDERON, MICHAEL OMAR <br> • TITO SANTA CRUZ, KERLY MABEL <br> • COLAN LAMAS, MARIA ALEJANDRA |
 
 ## X. Website
 
