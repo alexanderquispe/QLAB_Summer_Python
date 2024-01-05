@@ -24,4 +24,4 @@ I would like to analyze the evolution of the interest rate in the United States 
 - **Information**:
 ENAHO collects crucial data on demographics, employment, access to basic services, health, education and poverty in Peruvian households.
 - **Interest**:
-I am eager to delve into researching the impact of accesing various basic services on houshold well-being.
+I am eager to delve into researching the impact of accesing various basic services on household well-being.
