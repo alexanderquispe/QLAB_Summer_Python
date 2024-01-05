@@ -12,3 +12,7 @@ b. Information
 c. Interest
 
 3. Che
+a. Database: BCRP
+b. Information: Inflación, Tipo de cambio nominal, PBI, Gastos, Deuda publica y Empresas bancaria en el periodo 2012 - 2019 
+c. Interest: Me gustaria modelar las curvas de alguna de estas informaciones para poder encontrar algun modelo adaptativo para aplicarlo a un pronostico de 3 años despues. Utilizando el movimiento
+que tendria estos datos si no hubiese aparecido el covid-19.
