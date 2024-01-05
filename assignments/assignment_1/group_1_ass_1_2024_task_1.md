@@ -24,7 +24,7 @@ b.	Information: Total Delinquency Rate, Consumer Delinquency Rate, Mortgage Deli
 
 c.	Interest: I am interested in investigating the interplay between the monetary policy implemented by the central bank, as reflected in the reference or policy interest rate, and credit risk and delinquency rates. How variations in the policy interest rate may have influenced credit risk and delinquency rates as reported by the Superintendency of Banking, Insurance, and Pension Fund Administrators (SBS) in their dataset. Additionally, I intend to identify the transmission channels through which changes in the interest rate may manifest in credit-related metrics.
 
-4. Alessandro 
+4. Alessandro - a20202400@pucp.edu.pe
 
 a. Database: Stock Market Data from the Lima Stock Exchange.
 
