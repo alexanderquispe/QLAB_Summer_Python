@@ -18,3 +18,10 @@ I would like to analyze and graph by my own the evolution of the prices of some 
 It contains the evolution of the United States monetary policy interest rate monthly data between july 1954 and december 2023.
 - **Interest**:
 I would like to analyze the evolution of the interest rate in the United States with the purpose to identify the movements of this one, using Python as a tool.
+
+**3. Silvana Blanco - a20181716@pucp.edu.pe**
+- **Database**: ENAHO
+- **Information**:
+ENAHO collects crucial data on demographics, employment, access to basic services, health, education and poverty in Peruvian households.
+- **Interest**:
+I am eager to delve into researching the impact of accesing various basic services on houshold well-being.
