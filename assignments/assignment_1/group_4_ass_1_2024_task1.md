@@ -5,7 +5,7 @@ It contains inflation data that is reflected in the annual percentage change in 
 - **Interest**:
 I would like to analyze and graph by my own the evolution of the inflation of United States using Python and discover if I can detect the main financial crisis that occurred in this century.
 
-**2. Diego Gutierrez - a20202360pucp.edu.pe**
+**2. Diego Gutierrez - a20202360@pucp.edu.pe**
 - **Database**: BVL
 - **Information**:
 It contains financial information of the companies listed on the BVL, such as prices and amounts traded daily and historically.  
