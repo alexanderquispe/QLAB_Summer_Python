@@ -23,3 +23,12 @@ a.	Database: Credit risk, delinquency rates - Superintendency of Banking, Insura
 b.	Information: Total Delinquency Rate, Consumer Delinquency Rate, Mortgage Delinquency Rate, Business Delinquency Rate, Total Portfolio Rating, Consumer Portfolio Rating
 
 c.	Interest: I am interested in investigating the interplay between the monetary policy implemented by the central bank, as reflected in the reference or policy interest rate, and credit risk and delinquency rates. How variations in the policy interest rate may have influenced credit risk and delinquency rates as reported by the Superintendency of Banking, Insurance, and Pension Fund Administrators (SBS) in their dataset. Additionally, I intend to identify the transmission channels through which changes in the interest rate may manifest in credit-related metrics.
+
+4. Alessandro 
+
+a. Database: Stock Market Data from the Lima Stock Exchange.
+
+b. Information: Detailed data on stock prices, trading volumes, market indices, and sector-specific performance on a daily basis for the years 2015 to 2022.
+
+c. Interest: My research aims to delve into the intricacies of the Peruvian stock market. Specifically, I'm interested in understanding the factors influencing stock prices, examining the correlation between sectoral performance and market indices, and exploring the impact of macroeconomic events on trading volumes. By analyzing data from 2015 to 2022, I intend to identify patterns, trends, and potential areas of market inefficiencies, contributing to a deeper understanding of the dynamics within the Peruvian financial landscape.
+
