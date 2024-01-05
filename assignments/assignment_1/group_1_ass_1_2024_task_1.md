@@ -31,4 +31,4 @@ a. Database: Stock Market Data from the Lima Stock Exchange.
 b. Information: Detailed data on stock prices, trading volumes, market indices, and sector-specific performance on a daily basis for the years 2015 to 2022.
 
 c. Interest: My research aims to delve into the intricacies of the Peruvian stock market. Specifically, I'm interested in understanding the factors influencing stock prices, examining the correlation between sectoral performance and market indices, and exploring the impact of macroeconomic events on trading volumes. By analyzing data from 2015 to 2022, I intend to identify patterns, trends, and potential areas of market inefficiencies, contributing to a deeper understanding of the dynamics within the Peruvian financial landscape.
-
+.
