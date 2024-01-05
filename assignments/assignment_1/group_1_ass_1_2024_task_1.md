@@ -8,7 +8,7 @@ b.	Information:  Data about real GDP, inflation, real consumption, real investme
 
 c.	Interest: I would like to study the effect that the monetary policy implemented by the central bank (through the reference or policy interest rate) had on various macroeconomic aggregates for the period 2005 - 2019. Likewise, I would like to identify the transmission channels that reveal the effects of said policy.
 
-2. Daniel
+2. Daniel - ramirez.danielm@pucp.edu.pe
 
 a.  Database: Statistical Information of Multiple Banking of the Superintendence of Banking, Insurance and AFP.
 
