@@ -12,7 +12,7 @@ It contains financial information of the companies listed on the BVL, such as pr
 - **Interest**:
 I would like to analyze and graph by my own the evolution of the prices of some companies listed on the BVL using Python and study how they have changed over time and detect some anomalies that might exist in the data.
 
-**3. Anthony Mamani**
+**3. Anthony Mamani - a20201660@pucp.edu.pe**
 - **Database**: United States monetary policy interest rate
 - **Information**:
 It contains the evolution of the United States monetary policy interest rate monthly data between july 1954 and december 2023.
