@@ -5,7 +5,7 @@
 
 **Alexander Espinoza**
 * **a. Database** : Banco Central Reserva del Perú
-* **b. Information** : Data about interest rates for the years 2014-2023
+* **b. Information** : Data about interest rates for the years 2018-2023
 * **c. Interest**: I would like to know about movements of interest rate from BCRP and their effect in monetary policy. 
 
 **Jose Maria**
