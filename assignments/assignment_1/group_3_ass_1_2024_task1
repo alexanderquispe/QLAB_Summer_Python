@@ -2,9 +2,13 @@ Group 3: database options
 Members: Fernando, Lucia and Che
 
 1. Fernando
-a. Database: 
-b. Informattion:
-c. Interest:
+a. Database: Bolsa de valores de lima
+b. Informattion: Precio de compra/venta de acciones, número de transacciones diarias por acción, volumen de negociación diario, ratios de negociación por empresa,
+                 indices de mercado, en el periodo 2014 - 2022
+c. Interest: Me interesa observar la variación que tuvo el ratio de rotación de activos de las empresas pertenecientes a la Bolsa de Valores de Lima luego de la
+             implementación del Formador de Mercado, y observar si dicha política tuvo un efecto positivo en el mercado de valores. Para realizarlo usaré la metodología
+             Diff and Diff, para observar como hubiese evolucionado el ratio de rotación de la empresas en caso el Formador de Mercado no hubiese influenciado en sus 
+             ratios de rotación, y compararlo con datos reales, en los que el Formador de Mercado si influencio en sus ratios de rotación.
 
 2. Lucia
 a. Database: Bloomberg 
