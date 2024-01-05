@@ -16,7 +16,7 @@ b. Information: Data about financial indicators, effective equity requirement an
 
 c. Interest: I would like to study the effect that differents specification of the capital ratio had on the credit growth of peruvian banks for the period 2010 - 2019.
 
-3. Ruben 
+3. Ruben - ruben.rojasa@pucp.edu.pe
 
 a.	Database: Credit risk, delinquency rates - Superintendency of Banking, Insurance, and Pension Fund Administrators (SBS)
 
