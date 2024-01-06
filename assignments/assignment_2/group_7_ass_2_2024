@@ -1,1 +1,43 @@
+# Assignment 2
 
+    # 1.2 Lists
+
+        # Answer 1
+
+f_list = [np.nan , np.nan, "Austria", "Germany", np.nan, "Pakistan", "np.nan", np.nan ]
+
+import numpy as np
+
+nan_values = np.where(np.isnan(f_list))[0]
+
+nan_values_str = ', '.join(map(str, nan_values[0]))
+
+print(f"The indices {nan_values_str} have np.nan values.")
+
+        # Answer 2
+    
+p2_list = [ 2 , 3, 4, 5 ]
+
+p2_list_2 = p2_list * 4
+
+print(pt_list_2)
+
+        # Answer 3
+
+print(len(f_list))
+
+        # Answer 4
+    
+text1 = ['My', 'teacher', 'assistant', 'is', 'so', 'boring.']
+    
+answer_4 = ' '.join(text1)
+
+        # Answer 5
+    
+text_answer = ['My', 'TA']
+
+text_answer_b = ['but', 'is', 'very', 'funny']
+
+text_answer.attend 
+
+answer_5 = ' '.join(text_answer_5)
