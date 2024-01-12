@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+
+*.ipynb_checkpoints
+*__pycache__
+*/Constants.py
+*/env
+*chroma/
