@@ -1,0 +1,187 @@
+{
+ "cells": [
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "# 1 Assignment\n",
+    "\n",
+    "It is totally prohibited to use any kind of loop. You can use stackoverflow. If you copy codes from previous answers, explain each step. No explanation is `0 points`."
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "## 1.1 Tuple\n",
+    "\n",
+    "\n",
+    "\n",
+    "1. Print the first item of the second item of `tuple1` object. **Hint: Use indexing**<br><br>\n",
+    "2. Print the last item of the `tuple1` object.**Hint: Use indexing**<br><br>\n",
+    "3. Change the value \"orange\" for \"pink grapefruit\". Comment the output. **Hint: Is it possible?** <br><br>\n",
+    "4. Print the length of `tuple1`. **Hint: Length function**<br><br>\n",
+    "5. Sum all the elements of tuple2 and describe your steps and explain each of them. **Hint: Use `map` function.**<br><br>\n",
+    "6. Generate a new tuple object named as `tuple3` with the half values of `tuple2`. This tuple should be similar as `tuple2`, tuple of lists.  **Hint: Use `map` funciont.**<br><br>"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 2,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "tuple1 = (\"Orange\", [10, 20, 30], (5, 15, 25))\n",
+    "tuple2 = ([7, 8], [9, 1], [10, 7])\n"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 3,
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "10\n"
+     ]
+    }
+   ],
+   "source": [
+    "print(tuple1[1][0])\n"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 4,
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "(5, 15, 25)\n"
+     ]
+    }
+   ],
+   "source": [
+    "print(tuple1[2])"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 7,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "#No es posible cambiar ningun valor ya que estamos trabaando con una tupla y estas son inmutables"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 8,
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "3\n"
+     ]
+    }
+   ],
+   "source": [
+    "print(len(tuple1))"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 16,
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "42\n"
+     ]
+    }
+   ],
+   "source": [
+    "# Paso 1: Crear una función para mapear\n",
+    "def suma_de_lista_interna(lista_interna):\n",
+    "    return sum(lista_interna)\n",
+    "# Paso 2: Utilizar la función map\n",
+    "elementos_mapeados = map(suma_de_lista_interna, tuple2)\n",
+    "\n",
+    "# Paso 3: Convertir el iterable a una lista (opcional)\n",
+    "lista_de_elementos = list(elementos_mapeados)\n",
+    "\n",
+    "# Paso 4: Utilizar la función sum\n",
+    "suma_de_elementos = sum(lista_de_elementos)\n",
+    "\n",
+    "print(suma_de_elementos)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 17,
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "([3.5, 4.0], [4.5, 0.5], [5.0, 3.5])\n"
+     ]
+    }
+   ],
+   "source": [
+    "# Paso 1: Crear una función para mapear\n",
+    "def mitad_de_valores(lista_interna):\n",
+    "    return [valor / 2 for valor in lista_interna]\n",
+    "\n",
+    "# Paso 2: Utilizar la función map\n",
+    "tuple3 = tuple(map(mitad_de_valores, tuple2))\n",
+    "\n",
+    "print(tuple3)"
+   ]
+  }
+ ],
+ "metadata": {
+  "hide_input": false,
+  "kernelspec": {
+   "display_name": "Python 3 (ipykernel)",
+   "language": "python",
+   "name": "python3"
+  },
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 3
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython3",
+   "version": "3.11.5"
+  },
+  "toc": {
+   "base_numbering": 1,
+   "nav_menu": {},
+   "number_sections": true,
+   "sideBar": true,
+   "skip_h1_title": false,
+   "title_cell": "Table of Contents",
+   "title_sidebar": "Contents",
+   "toc_cell": false,
+   "toc_position": {},
+   "toc_section_display": true,
+   "toc_window_display": false
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 4
+}

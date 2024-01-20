@@ -6,7 +6,7 @@ This public repository contains the training materials, tutorials, code, and ass
 
 |  | | 
 |:-------------------|---|
-| Course name | Python Fundamentals for Social Sciences and Public Management | 
+| Course name | Python Fundamentals for Macroeconomics | 
 | Number of Hours of Theory | 16 hours |
 | Professor | Alexander Quispe Rojas |
 | PUCP email | alexander.quispe@pucp.edu.pe |
@@ -40,7 +40,7 @@ The evaluation consists of a final work at the end of the course.
 
 | Nº | Type of evaluation | Weighting on Final Grade |
 |:-------------------|---| ---|
-| 8 | Weekly evaluations | 80% |
+| 8 | 4 evaluations | 80% |
 | 1 | Final project | 20%|
 
 ## VII. Compulsory Bibliography
@@ -52,28 +52,22 @@ The evaluation consists of a final work at the end of the course.
 
 ## VIII. Schedule
 
-| Week | Blocks | Topics/Contents |
-|:-------------------|---|---|
-| 1 | Introduction to Python | • Setting up a programming environment <br> • Basic syntax and data types (strings, integers, floats, booleans) <br> • Variables and assignment <br> • Basic operators (arithmetic, comparison, logical) <br> • Basic input and output |
-| 2 | Control Structures | • if-else statements <br> • for loops <br> • while loops <br> • break and continue |
-| 3 | Functions |  • Defining and calling functions <br> • Parameters and arguments <br> • Return values <br> • Scope |
-| 4 | Data Structures | • Lists <br> • Tuples <br> • Dictionaries <br> • Sets |
-| 5 | Working with Files | •	Reading and writing files <br> •	Handling exceptions <br> •	JSON data |
-| 6 | Modules and Packages | •	Importing and exporting modules <br> •	Installing and using third-party packages |
-| 7 | Object-Oriented Programming |•	Classes and objects <br> •	Constructors and destructors <br> •	Inheritance and polymorphism |
-| 8 | Advanced Topics | •	Generators and iterators <br> •	Decorators <br> •	Lambda functions <br> •	Regular expressions |
+|Week|Date|Day|Schedule|Topic|Subtopic
+|---|---|---|---|---|---
+|1|01/03/2024|Wednesday|08:00-11:00| Github - Basic Objects| <ul>  <li>Installation</li>   <li>Branches</li>   <li>Repository </li> <li>Lists</li>   <li>Dictionaries</li>   <li>NumPy </li> </ul>   
+|2|01/05/2025|Friday|08:00-11:00| Pandas | <ul>  <li> Series </li>   <li>Indexing</li>   <li>Importing Data </li> <li> Data wrangling </li> </ul>      
+|3|01/08/2024|Monday|08:00-11:00 | Control Structures, Functions and Classes| <ul>  <li> If condition </li>   <li> For loop</li>   <li> While Loop</li> <li> Function Definitions </li>   <li> *args and **kwwargs </li>   <li> \_init_</li> <li> Attributes and Methods</li> </ul>    
+|4|01/10/2024|Wednesday|08:00-11:30| APIs| <ul>  <li>Google Directions</li>   <li>Geolocation</li> <li>Finance APIs</li> </ul>   
+|5|01/12/2024|Friday|08:00-11:30| NLP| <ul>  <li> GPT-4 </li>   <li> Transformers </li>   </ul> 
 
 ## IX. Groups
 
-| Group 1 | Group 2 | Group 3 |
-|:---|:---|:---|
-| • VILCA GALLEGOS, LUZ NICOLE <br> • ARANDA FLORES, PAOLA CRISTINA <br> • MARTUCCELLI GARCIA, DANIELA FERNANDA <br> • VAN OORDT LOPEZ, MARIA PIA | • CRESPIN JUAREZ, CARLOS DANIEL <br> • QUISPE PAUCAR, ANGIE CRISTINA <br> • TELLO ASENCIO, JENNIFER ANDREA <br> • ARO CARDENAS, ARTURO FABIO | <br> • CRUZ PACHECO, BRISA ALEJANDRA <br> • DU-BOIS ARANA, ALEXANDER <br> • ALFARO GUERRERO, CRISTHIAN FRED <br> • CABRERA BONILLA, ESTEBAN SIMON |
-
-
-
-| Group 4 | Group 5 | Group 6 | Group 7 |
-|:---|:---|:---|:---|
-| • CUEVA MENDOZA, JHERSON ALDAIR <br> • NARVAEZ LEYVA, GABRIELA MARIE <br> • YAMAMOTO CAMPOS, GONZALO JESUS <br> • CORONADO SIALER, GUILLERMO EDUARDO | • POGGI SOLANO, CESAR ALEJANDRO <br> • NOBLEJAS GARCIA, JIMMY ALEXANDER <br> • PINILLOS ZEGARRA, XIMENA ALEJANDRA <br> • TORRES TAPIA, SEBASTIAN ELIAS | • MENDOZA MORALES, CARMEN ROSA <br> • PEREZ GUERRA, JOAQUIN ESTEBAN <br> • MINAYA TEJEDA, LIZBETH JAZMIN <br> • ALBARRACIN GARCES, VALERIA SORAYA |• ENCALADA CALDERON, MICHAEL OMAR <br> • TITO SANTA CRUZ, KERLY MABEL <br> • COLAN LAMAS, MARIA ALEJANDRA |
+| group1               | group2                          | group3                     | group4                            | group5                      | group6                             | group7                           | group8                        |  
+|----------------------|---------------------------------|----------------------------|-----------------------------------|-----------------------------|------------------------------------|----------------------------------|------------------------------|
+| RUBEN ROJAS AYALA    | JOSE MIGUEL POEMAPE COSANATAN   | CHE VICTOR TORRES LOPEZ    | ABRAHAM ALBERTH CALDERON CANICOBA | GIORDANO ALAIN MEDINA MONTES | ISMAEL BARUJ GONZALES REVILLA      | ILENIA ALEJANDRA TTITO COLLANTES | NICOLAS ALBERTO VELARDE FREUNDT |         
+| DANIEL MAX RAMIREZ CHAVEZ | JHUNNIOR STEVENS SAENZ ALTAMIRANO | FERNANDO CARLOS TEMPLO VIENA | DIEGO FERNANDO GUTIERREZ PARRE√ëO | ANGIE ZOILA ABAD ALVARADO    | CARLOS EDUARDO BORJA SOTOMAYOR     | JAMES CARLOS MEDINA VANINI      | FERNANDO MIGUEL MENDOZA CANAL |   
+| JOSUE ALBERTO RICAPA SANCHEZ | GONZALO JESUS ORME√ëO MARREROS  | CARLOS RODRIGO MENDOZA GOMEZ | SILVANA SHANTAL BLANCO ATAU       | JUAN DIEGO LINARES JAIME     | ALEXANDER SEBASTIAN ESPINOZA COLCA | RAFAEL ANTONIO VARGAS PORTOCARRERO | ALVARO FRANCO GAMONAL MIRANDA | 
+| ALESSANDRO DEL PIERO BURGOS CAMPOMANEZ | ARMANDO JAVIER PINEDA ALIAGA    | DANIELA LUCIA OCHOA SALAS    | ANTHONY PEDRO MAMANI NAVARRO      | MARILIA ARIZAPANA HINOSTROZA | JOSE MARIA SEBASTIAN TAMAYO MARTINEZ | ANA LUCIA DEL RIO SANTOS         |      MARICIELO MEZARINA                        |              
 
 ## X. Website
 
